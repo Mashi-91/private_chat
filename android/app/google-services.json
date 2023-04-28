@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228661775129",
+    "project_id": "private-chat-f61e7",
+    "storage_bucket": "private-chat-f61e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228661775129:android:f4ea9c120bb911b7511388",
+        "android_client_info": {
+          "package_name": "com.example.private_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228661775129-mh4cjd04ds3636m3m1vnm515triofdek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsPVhXsuVU5bNWE-w-ine1TmV_jNHuCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228661775129-mh4cjd04ds3636m3m1vnm515triofdek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
